@@ -6,4 +6,5 @@ For communication between control panel and browser layer it use BroadcastChanne
 
 # LINKS DE LOWER THIRD PRA COPIAR:
 Entrada De Navegador: https://joaozinholindo123.github.io/meu-lower-third/lower%20thirds/browser-source.html
+
 Painel de Controle: https://joaozinholindo123.github.io/meu-lower-third/lower%20thirds/control-panel.html
